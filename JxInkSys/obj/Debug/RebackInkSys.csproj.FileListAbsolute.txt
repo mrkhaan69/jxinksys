@@ -1,0 +1,14 @@
+D:\work\vc++\test\负压通讯演示\c#\JxInkSys Reback\JxInkSys\bin\Debug\JxInkSysReback.exe
+D:\work\vc++\test\负压通讯演示\c#\JxInkSys Reback\JxInkSys\bin\Debug\JxInkSysReback.pdb
+D:\work\vc++\test\负压通讯演示\c#\JxInkSys Reback\JxInkSys\obj\Debug\JxInkSys.Form1.resources
+D:\work\vc++\test\负压通讯演示\c#\JxInkSys Reback\JxInkSys\obj\Debug\JxInkSysReback.Properties.Resources.resources
+D:\work\vc++\test\负压通讯演示\c#\JxInkSys Reback\JxInkSys\obj\Debug\RebackInkSys.csproj.GenerateResource.Cache
+D:\work\vc++\test\负压通讯演示\c#\JxInkSys Reback\JxInkSys\obj\Debug\JxInkSysReback.exe
+D:\work\vc++\test\负压通讯演示\c#\JxInkSys Reback\JxInkSys\obj\Debug\JxInkSysReback.pdb
+D:\work\vc++\test\负压通讯演示\c#\JxInkSys Reback En\JxInkSys\bin\Debug\JxInkSysReback.exe
+D:\work\vc++\test\负压通讯演示\c#\JxInkSys Reback En\JxInkSys\bin\Debug\JxInkSysReback.pdb
+D:\work\vc++\test\负压通讯演示\c#\JxInkSys Reback En\JxInkSys\obj\Debug\JxInkSys.Form1.resources
+D:\work\vc++\test\负压通讯演示\c#\JxInkSys Reback En\JxInkSys\obj\Debug\JxInkSysReback.Properties.Resources.resources
+D:\work\vc++\test\负压通讯演示\c#\JxInkSys Reback En\JxInkSys\obj\Debug\RebackInkSys.csproj.GenerateResource.Cache
+D:\work\vc++\test\负压通讯演示\c#\JxInkSys Reback En\JxInkSys\obj\Debug\JxInkSysReback.exe
+D:\work\vc++\test\负压通讯演示\c#\JxInkSys Reback En\JxInkSys\obj\Debug\JxInkSysReback.pdb
